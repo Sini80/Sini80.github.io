@@ -156,6 +156,7 @@ a,
 img {
      max-width: 100%;
      height: auto;
+     border-radius: 20px;
 }
 
  :focus {
@@ -324,11 +325,12 @@ position: relative;
 }
 
 .logo a {
-     font-size: 40px;
+     font-size: 50px;
      font-weight: bold;
      text-transform: uppercase;
-     color: #fff;
+     color: rgb(255, 255, 255);
      line-height: 40px;
+     background-color: #38c8a8;
 }
 
 .banner_main {
@@ -354,7 +356,7 @@ height: 276px;
  background-repeat: no-repeat;
 }
 .text-bg {
-     text-align: center;
+     text-align: left;
     
 }
 
@@ -364,6 +366,7 @@ height: 276px;
      line-height: 65px;
      font-weight: bold;
      padding-bottom:40px;
+     background-color: #20c997;
 }
 
 
@@ -400,7 +403,7 @@ height: 276px;
 
 .titlepage h2 {
      font-size: 40px;
-     color: #1d1c1d;
+     color:#e83e8c;
      line-height: 35px;
      font-weight: bold;
      padding: 0;
@@ -420,11 +423,11 @@ height: 276px;
      padding: 90px 0px 40px 0px; border-top: #000 solid 1px;
 }
 .black_bg {margin-bottom: 50px;}
-.store .titlepage p {color: #6d6d6d; font-size: 17px; line-height: 28px;}
+.store .titlepage p {color: #3ee885; font-size: 17px; line-height: 28px;}
 .store .store_box {
      text-align: left;
 }
-.store .store_box h3 {color: #1a1a1a; font-size: 30px; font-weight: 501; line-height: 30px;}
+.store .store_box h3 {color: #e83e8c; font-size: 30px; font-weight: 501; line-height: 30px; background-color: #20c997;}
 .store .store_box figure {
      margin: 0;
      box-shadow: #ddd 0px 0px 11px 1px;
@@ -435,7 +438,7 @@ height: 276px;
 }
 
 .store .store_box p {
-     color: #6d6d6d;
+     color: #963ee8;
      font-size: 17px;
      line-height: 28px;
      padding: 25px 0px 35px 0px;
@@ -464,7 +467,7 @@ height: 276px;
 
 
 
-.red {color: #fe0131;}
+.red {color: #fe01bf;}
 .about .titlepage h2 {
      color: #272f43;
      padding-bottom: 0;
@@ -493,9 +496,10 @@ height: 276px;
 }
 
 .Testimonial .titlepage h2 {
-     color: #474646;
+     color: #e83e8c ;
      margin-bottom: 0px;
      padding-bottom: 20px;
+     background-color: #38c8a8;
 }
 
 .Testimonial .titlepage span {
