@@ -55,7 +55,7 @@ ul, li {
 	background: #e64741; /* Old browsers */
 	background: -moz-linear-gradient(top, #e64741 0%, #e6255d 100%, #7db9e8 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, #e64741 0%,#e6255d 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #e64741 0%,#e6255d 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: linear-gradient(to bottom, #e64741 0%,#e6255d 100%,#20c997 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e64741', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
 	overflow: hidden;
 	position: relative;
@@ -91,7 +91,7 @@ body.active #Banner h1  {
 	-ms-transition-delay: 1.5s;
 }
 #Banner h1 {
-	color: #fff;
+	color: #20c997S;
 	font-size: 80px;
 	font-family: 'Futura PT book';
   position: absolute;
@@ -226,7 +226,7 @@ body.active .mscroll {
   color: #fff;
 }
 .menu-toggle:hover, .menu-toggle.active {
-  background: #e6275c;
+  background: #e83e8c;
 }
 /* Banner style ends here */
 /* Our Digital services style begins here */
