@@ -1,4 +1,5 @@
-const insert = document.addEventListener('keydown', (event) => {
+const insert = document.getElementById('insert');
+window.addEventListener('keydown', (event) => {
 console.log(event);
 
 insert.innerHTML = `
